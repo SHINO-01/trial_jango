@@ -1,0 +1,6 @@
+asgiref
+Django
+djangorestframework
+pillow
+psycopg2-binary
+sqlparse
